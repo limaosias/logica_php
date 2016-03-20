@@ -4,7 +4,8 @@
 		Atribuir o número 8 a uma variável chamada tomates
 ************************************************************/
 
-
+$tomates=8
+echo $tomates;
 
 
 
